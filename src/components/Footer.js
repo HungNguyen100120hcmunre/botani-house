@@ -8,4 +8,3 @@ const Footer = () => {
 };
 
 export default Footer;
-cbcjbdc1111
